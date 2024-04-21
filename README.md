@@ -72,11 +72,4 @@ Soy una QA Automation viviendo en Corrientes 🧉, Argentina. 🇦🇷
 
 ---
 
-### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lisa-Acosta" alt="Lisa-Acosta" /></a> </p>
-<div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Lisa-Acosta&theme=dark&background=000000" width="600"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisa-Acosta&layout=compact&theme=vision-friendly-dark" width="600"/>
-</div>
+
